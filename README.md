@@ -34,7 +34,7 @@
 
 ## 🟢 Access
 
-🌐 Website link: https://goal-connect.vercel.app/
+🌐 Website link: [https://goal-connect.vercel.app/](https://goal-connect-nu.vercel.app)
 
 ## ⚙️ Instructions For Local Deployment
 
